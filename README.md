@@ -18,7 +18,7 @@
 ### <img src="./images/stats.gif" width="30px"> **_About Me_**
 
 - 🌱 I'm learning **_Javascript_** and **_ReactJS_** 😍
-- 🏆 I usually work with **_PHP language_**
+- 🏆 I usually work with **_Javascript language_**
 - 📫 Ask me anything you want [**here**](https://github.com/iamduy), If I were alive, I would reply within seconds 😉
 - 😄 Fun fact: Every problem is solved by me while I go to the toilet
 
