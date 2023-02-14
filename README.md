@@ -19,7 +19,6 @@
 
 - 🌱 I'm learning **_Javascript_** and **_ReactJS_** 😍
 - 🏆 I usually work with **_Javascript language_**
-- 📫 Ask me anything you want [**here**](https://github.com/iamduy), If I were alive, I would reply within seconds 😉
 - 😄 Fun fact: Every problem is solved by me while I go to the toilet
 
 <br>
@@ -67,10 +66,9 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    	<code><a href="https://www.facebook.com/iamduyyyyyy/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
-	<code><a href="https://www.linkedin.com"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
-	<code><a href="https://twitter.com"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code>
-	<code><a href="mailto:duydkph10118@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+    	<code><a href="https://www.facebook.com/sanmario.it/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+	<code><a href="https://www.linkedin.com/in/san-mario-9600a9262/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
+	<code><a href="mailto:sanmario.it@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>
 
   <p align="center">
